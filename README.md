@@ -27,7 +27,7 @@ dotnet run
 
 This will build and run the quiz application.
 
-## How to Play
+## How to take the quiz
 
 1. When you start the application, you'll be presented with the main screen to choose a quiz topic.
 2. Click on your preferred category, and a series of questions will be displayed.
